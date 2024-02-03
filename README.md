@@ -18,8 +18,16 @@ j'utilise ces langages de programmation.
 |             C#             |          Python          | HTML5                   | CSS3                  | SQLITE                  |
 | :------------------------: | :-----------------------: | ----------------------- | --------------------- | ----------------------- |
 | ![C-Sharp](image/csharp.png) | ![python](image/python.png) | ![HTML5](image/html5.png) | ![CSS3](image/css3.png) | ![CSS3](image/SQLite.png) |
-|          **JS**          |         **LUA**         |                         |                       |                         |
+|        **JS**        |       **LUA**       |                         |                       |                         |
 |     ![JS](image/js.png)     |    ![LUA](image/LUA.png)    |                         |                       |                         |
+
+# Reseau Sociaux :
+
+J'ai réalisé des Bot/screen/game intégrés a differents reseaux sociaux.
+
+| Twitch                    | Discord                     |
+| ------------------------- | --------------------------- |
+| ![Twitch](image/twitch.png) | ![Discord](image/discord.png) |
 
 # Jeux Videos :
 
@@ -28,7 +36,7 @@ J'ai réalisé des Maps, Addons / utilitaires pour les jeux ci dessous sur de no
 |         Project<br />Zomboid         |                            |                        |                        |
 | :----------------------------------: | :-------------------------: | :---------------------: | :---------------------: |
 |    ![Project Zomboid](image/pz.jpg)    |                            |                        |                        |
-|            **OFP**            |       **ArmA**       |    **ArmA 2**    |       **ArmA 3**       |
+|            **OFP**            |       **ArmA**       |    **ArmA 2**    |    **ArmA 3**    |
 | ![Operation Flashpoint](image/ofp.jpg) |    ![Arma](image/arma.jpg)    | ![Arma2](image/arma2.jpg) | ![Arma3](image/arma3.jpg) |
 |           **SWAT 3**           |      **SWAT 4**      |                        |                        |
 |       ![SWAT 3](image/swat3.jpg)       |  ![SWAT 4](image/swat4.jpg)  |                        |                        |
